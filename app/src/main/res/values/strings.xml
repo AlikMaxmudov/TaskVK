@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">vktask</string>
+
+    <string-array name="currency_options">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+    </string-array>
+
+</resources>
